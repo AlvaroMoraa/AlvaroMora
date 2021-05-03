@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
